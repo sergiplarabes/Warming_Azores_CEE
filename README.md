@@ -52,6 +52,7 @@ This folder store all the plots of the present project
 
 This Folder contain all the scripts explained above
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13853797.svg)](https://doi.org/10.5281/zenodo.13853797)
 
 
 
